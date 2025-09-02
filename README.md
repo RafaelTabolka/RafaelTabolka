@@ -53,13 +53,3 @@
   </a>
 </p>
 
-<!-- (Opcional) Gráfico de atividade/commits no rodapé -->
-<!-- Activity Graph (prettier) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTabolka&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Rafael%20Tabolka's%20Activity" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTabolka&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Rafael%20Tabolka's%20Activity" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTabolka&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Rafael%20Tabolka's%20Activity" alt="Activity Graph de RafaelTabolka" />
-  </picture>
-</p>
-
