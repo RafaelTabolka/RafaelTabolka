@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there! I'm Rafael Tabolka
 
-<!--
-**RafaelTabolka/RafaelTabolka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍🏫 I'm an Information Technology (IT) teacher at SENAI.
+- 🎓 I'm a student in the Multiplatform Software Development course.
+<!-- Cards: Stats + Linguagens -->
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=RafaelTabolka&show_icons=true&include_all_commits=true&count_private=true&custom_title=RafaelTabolka's%20GitHub%20Stats&rank_icon=percentile&theme=dracula"
+        alt="GitHub Stats de RafaelTabolka" />
+    </td>
+    <td>
+      <!-- Linguagens mais usadas -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTabolka&layout=compact&langs_count=8&theme=dracula"
+        alt="Top Languages de RafaelTabolka" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<!-- Streak (opcional, combina com o visual) -->
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=RafaelTabolka&theme=dracula"
+    alt="GitHub Streak de RafaelTabolka" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tech badges (iguais aos da imagem) -->
+<!-- JS, TS, HTML5, CSS3, Python, C# -->
+<p>
+  <!-- Angular -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <!-- Entity Framework (usando .NET) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="Entity Framework (.NET)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+</p>
+
+
+<!-- Botões de redes (estilo da imagem) -->
+<p>
+  <a href="https://www.linkedin.com/in/rafael-tabolka-4b4725149/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- (Opcional) Gráfico de atividade/commits no rodapé -->
+<!-- Activity Graph (prettier) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTabolka&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Rafael%20Tabolka's%20Activity" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTabolka&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Rafael%20Tabolka's%20Activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelTabolka&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Rafael%20Tabolka's%20Activity" alt="Activity Graph de RafaelTabolka" />
+  </picture>
+</p>
+
